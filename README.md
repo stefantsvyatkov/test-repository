@@ -1,5 +1,3 @@
 # test-repository
 My first steps in GitHub
-
-
-High. I am Stefan Tsvyatkov
+This is a console program that converts given centuries count to nanoseconds.
